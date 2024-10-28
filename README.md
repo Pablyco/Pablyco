@@ -45,7 +45,9 @@ I'm a game developer who loves working with Unreal Engine, fixing bugs, programm
 ## ✨Experience
 - **Scubalight Studios 2021-2023**
 - **Solo game dev 2023 - currently**
-- 
+
+---
+
 ## 📫 Contact
 - [Email](pablycogamedev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pablo-villanueva-3157491b4/)
