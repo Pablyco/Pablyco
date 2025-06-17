@@ -1,7 +1,11 @@
 # 🌀 Pablyco 
-**`Game Developer ⟡ Unreal Engine Programming and Optimization`**
+**`Unreal Engine Developer ⟡ Multiplayer Systems & Replication`**
 
-I'm a game developer who loves working with Unreal Engine, fixing bugs, programming and improving game optimization. I have experience as an indie developer and started a game from scratch to publish on [Steam](https://store.steampowered.com/app/2506390/Chester_The_Chest/). My game development journey has been driven by a passion for creating high-performance, immersive gaming experiences, whether that's achieving smooth frame rates, reducing draw calls, or ensuring the game is bug-free. I bring a problem-solving mentality to each project, if there is something I don't know I will try to learn it as soon as possible
+Hi, I’m Pablo Facundo Villanueva — a game developer with 5+ years of experience using Unreal Engine, currently focused on mastering multiplayer systems and network replication. I specialize in gameplay programming and optimization, with a strong foundation in shipping games as a solo developer and in indie teams.
+
+I'm the co-founder of Poison Cat Games, a small studio creating emotionally driven experiences like Through His Eyes, a psychological horror game with a demo available on Steam. Before that, I released Chester The Chest, a solo-developed 3D platformer.
+
+These days, my main mission is to build responsive, scalable, and bug-resistant multiplayer systems in Unreal Engine 5 — while keeping performance high and gameplay smooth. I’m passionate about solving hard technical problems, learning fast, and building games that just feel good to play.
 
 ---
 
@@ -21,30 +25,45 @@ I'm a game developer who loves working with Unreal Engine, fixing bugs, programm
 
 
 ## 💼 Skill Set
+- **Multiplayer Systems (Current Focus)**:
+    - Network Replication (UE5).
+    - Authority-Based Logic & Ownership.
+    - Session Management & Matchmaking.
+    - Lag Compensation Concepts.
+    - RPCs, Prediction, and Multiplayer Debugging
+
 - **Technical Skills**:
     - Unreal Engine 5.X (Blueprints and C++).
     - Game Mechanics Development.
     - Performance Optimization Techniques.
 
-- **Optimization Expertise**:
+- **Optimization Strengths**:
     - LODs and Draw Calls.
     - GPU/CPU Profiling.
     - Memory and Asset Management.
     - Performance View Modes (Shader Complexity, Light Complexity).
  
-- **Interpersonal Skills**:
-    - Problem Solving.
-    - Adaptability and Resilience.
-    - Collaborative Teamwork.
-    - Detail-Oriented.
+- **Soft Skills**:
+    - Fast learner & highly adaptable.
+    - Organized, goal-driven, detail-oriented.
+    - Strong communication & teamwork.
+    - Fluent in Spanish, Upper-Intermediate English (B2).
 
-- **Industry Knowledge**:
-    - Game Development Pipeline.
-    - Performance Profiling & Analysis.
 ---
+
+
 ## ✨Experience
-- **Scubalight Studios 2021-2023**
-- **Solo game dev 2023 - currently**
+- **Poison Cat Games (2024 – Present) Co-founder & Lead Developer**:
+    - Developing Through His Eyes with a focus on gameplay and FMOD implementation.
+
+- **Solo Developer (2023 – 2025)**:
+    - Released Chester The Chest on Steam, handling all aspects from programming and art to publishing and     marketing.
+    - Began deep dive into UE5’s networking tools and replication logic.
+
+- **Solo Developer (2023 – 2025) Gameplay Programmer**:
+    - Worked on Don't Kill Rumble with GAS and early multiplayer experimentation.
+    - Focused on bug fixing, optimization, and architecture improvements.
+
 
 ---
 
