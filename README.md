@@ -60,7 +60,7 @@ These days, my main mission is to build responsive, scalable, and bug-resistant 
     - Released Chester The Chest on Steam, handling all aspects from programming and art to publishing and     marketing.
     - Began deep dive into UE5’s networking tools and replication logic.
 
-- **Solo Developer (2023 – 2025) Gameplay Programmer**:
+- **Scubalight Studios (2021 – 2023) Gameplay Programmer**:
     - Worked on Don't Kill Rumble with GAS and early multiplayer experimentation.
     - Focused on bug fixing, optimization, and architecture improvements.
 
