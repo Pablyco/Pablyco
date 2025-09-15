@@ -1,23 +1,23 @@
 # 🌀 Pablyco 
-**`Unreal Engine Developer ⟡ Multiplayer Systems & Replication`**
+**`Java Backend Developer ⟡ Spring Boot`**
 
-Hi, I’m Pablo Facundo Villanueva — a game developer with 5+ years of experience using Unreal Engine, currently focused on mastering multiplayer systems and network replication. I specialize in gameplay programming and optimization, with a strong foundation in shipping games as a solo developer and in indie teams.
+Hi, I’m Pablo Facundo Villanueva — a developer transitioning from 5+ years of game development with Unreal Engine (C++ and Blueprints) to building backend solutions with Java and Spring Boot. I’m learning and applying skills in creating RESTful APIs, working with databases like PostgreSQL, and building scalable applications.I’m excited to grow as a backend developer and contribute to innovative tech teams.
 
-I'm the co-founder of Poison Cat Games, a small studio creating emotionally driven experiences like Through His Eyes, a psychological horror game with a demo available on Steam. Before that, I released Chester The Chest, a solo-developed 3D platformer.
-
-These days, my main mission is to build responsive, scalable, and bug-resistant multiplayer systems in Unreal Engine 5 — while keeping performance high and gameplay smooth. I’m passionate about solving hard technical problems, learning fast, and building games that just feel good to play.
+Before pivoting, I co-founded Poison Cat Games and released Chester The Chest, a solo-developed 3D platformer. I enjoy solving technical challenges, writing clean code, and adapting to new technologies. Fluent in Spanish and English (B2), I’m ready to bring my skills to new opportunities.
 
 ---
 
 ## 🧰 Tools
 
+<img align="left" alt="Java" width="30px" style="padding-rigth:10px;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png"/>
+<img align="left" alt="Spring Boot" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-rigth:10px;" src="https://www.postgresql.org/media/img/about/press/elephant.png"/>
 <img align="left" alt="Unreal Engine 5" width="30px" style="padding-rigth:10px;" src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png"/>
 <img align="left" alt="C++" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Steam" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png"/>
 <img align="left" alt="Aseprite" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/640px-Logo_Aseprite.svg.png"/>
 <img align="left" alt="GitHub" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/>
-<img align="left" alt="Discord" width="30px" style="padding-rigth:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
 <img align="left" alt="Trello" width="30px" src="https://www.svgrepo.com/show/354463/trello.svg"/>  
 <br>
 
@@ -25,50 +25,45 @@ These days, my main mission is to build responsive, scalable, and bug-resistant 
 
 
 ## 💼 Skill Set
-- **Multiplayer Systems (Current Focus)**:
-    - Network Replication (UE5).
-    - Authority-Based Logic & Ownership.
-    - Session Management & Matchmaking.
-    - Lag Compensation Concepts.
-    - RPCs, Prediction, and Multiplayer Debugging
-
-- **Technical Skills**:
-    - Unreal Engine 5.X (Blueprints and C++).
-    - Game Mechanics Development.
-    - Performance Optimization Techniques.
-
-- **Optimization Strengths**:
-    - LODs and Draw Calls.
-    - GPU/CPU Profiling.
-    - Memory and Asset Management.
-    - Performance View Modes (Shader Complexity, Light Complexity).
+- **Backend Development (Current Focus)**:
+    - Java (Java SE 8+).
+    - Spring Boot (REST APIs, Spring Data, Spring Security).
+    - PostgreSQL (database design, queries, optimization).
+    - RESTful API design and integration.
+    - Git for version control.
  
-- **Soft Skills**:
-    - Fast learner & highly adaptable.
-    - Organized, goal-driven, detail-oriented.
-    - Strong communication & teamwork.
+- **Game Development (Previous Experience)**:
+    - Unreal Engine 5 (C++ and Blueprints).
+    - Gameplay programming and optimization.
+    - Multiplayer systems and network replication.
+    - Performance profiling (CPU/GPU, LODs, draw calls).
+
+- **Soft Skills:**:
+    - Quick learner and adaptable to new technologies.
+    - Organized and detail-oriented.
+    - Collaborative and team-focused.
     - Fluent in Spanish, Upper-Intermediate English (B2).
 
 ---
 
 
 ## ✨Experience
-- **Poison Cat Games (2024 – Present) Co-founder & Lead Developer**:
-    - Developing Through His Eyes with a focus on gameplay and FMOD implementation.
+- **Java Backend Projects (2025 – Present)**:
+    - Built an application with Spring Boot, featuring REST APIs and PostgreSQL integration.
 
+- **Poison Cat Games (2024 – Present) Co-founder & Developer**:
+    - Worked on Through His Eyes, a psychological horror game, focusing on gameplay and FMOD audio implementation using Unreal Engine 5.
+      
 - **Solo Developer (2023 – 2025)**:
-    - Released Chester The Chest on Steam, handling all aspects from programming and art to publishing and     marketing.
-    - Began deep dive into UE5’s networking tools and replication logic.
-
+    - Released Chester The Chest on Steam, handling all aspects from programming and art to publishing and marketing.
+      
 - **Scubalight Studios (2021 – 2023) Gameplay Programmer**:
-    - Worked on Don't Kill Rumble with GAS and early multiplayer experimentation.
-    - Focused on bug fixing, optimization, and architecture improvements.
-
-
+    - Contributed to Don't Kill Rumble with Unreal Engine, focusing on gameplay mechanics, bug fixing, and performance improvements.
+      
 ---
 
 ## 📫 Contact
 - [Email](pablycogamedev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/pablo-villanueva-3157491b4/)
+- [LinkedIn](www.linkedin.com/in/pablyco)
 
 ---
