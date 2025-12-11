@@ -1,69 +1,63 @@
 # 🌀 Pablyco 
 **`Java Backend Developer ⟡ Spring Boot`**
 
-Hi, I’m Pablo Facundo Villanueva — a developer transitioning from 5+ years of game development with Unreal Engine (C++ and Blueprints) to building backend solutions with Java and Spring Boot. I’m learning and applying skills in creating RESTful APIs, working with databases like PostgreSQL, and building scalable applications.I’m excited to grow as a backend developer and contribute to innovative tech teams.
+Hi! I’m Pablo Facundo Villanueva — a Java backend developer focused on building clean, maintainable, and scalable RESTful services using Java + Spring Boot + PostgreSQL + Docker.
 
-Before pivoting, I co-founded Poison Cat Games and released Chester The Chest, a solo-developed 3D platformer. I enjoy solving technical challenges, writing clean code, and adapting to new technologies. Fluent in Spanish and English (B2), I’m ready to bring my skills to new opportunities.
+I’m currently finishing my first full REST API project (CRUD operations, layered architecture, pagination, validation, authentication with Spring Security + JWT, and deployment-ready Docker setup).
+I enjoy backend architecture, clean code, database design, and learning tools that help me build robust software.
+
+Before switching to backend development, I spent 5+ years in game programming, which strengthened my problem-solving, debugging, and performance optimization skills.
 
 ---
 
-## 🧰 Tools
-
-<img align="left" alt="Java" width="30px" style="padding-rigth:10px;" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png"/>
-<img align="left" alt="Spring Boot" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png"/>
-<img align="left" alt="PostgreSQL" width="30px" style="padding-rigth:10px;" src="https://www.postgresql.org/media/img/about/press/elephant.png"/>
-<img align="left" alt="Unreal Engine 5" width="30px" style="padding-rigth:10px;" src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png"/>
-<img align="left" alt="C++" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Steam" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png"/>
-<img align="left" alt="Aseprite" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/640px-Logo_Aseprite.svg.png"/>
-<img align="left" alt="GitHub" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-rigth:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/>
-<img align="left" alt="Trello" width="30px" src="https://www.svgrepo.com/show/354463/trello.svg"/>  
-<br>
+![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.X-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
 ---
 
 
-## 💼 Skill Set
-- **Backend Development (Current Focus)**:
-    - Java (Java SE 8+).
-    - Spring Boot (REST APIs, Spring Data, Spring Security).
-    - PostgreSQL (database design, queries, optimization).
-    - RESTful API design and integration.
-    - Git for version control.
+## 💼 Tech Stack
+### Backend
+- Java 17+  
+- Spring Boot (Web, Data JPA, Security, Validation)  
+- PostgreSQL  
+- Docker   
+- REST API Design  
+- Unit Testing (JUnit + Mockito)  
+
+### Tools
+- Git + GitHub
+- IntelliJ IDEA
+- Postman
+- Maven
+
+### Other Experience
+- Unreal Engine (C++ / Blueprints)
+- FMOD
+- Gameplay systems & optimization
  
-- **Game Development (Previous Experience)**:
-    - Unreal Engine 5 (C++ and Blueprints).
-    - Gameplay programming and optimization.
-    - Multiplayer systems and network replication.
-    - Performance profiling (CPU/GPU, LODs, draw calls).
-
-- **Soft Skills:**:
-    - Quick learner and adaptable to new technologies.
-    - Organized and detail-oriented.
-    - Collaborative and team-focused.
-    - Fluent in Spanish, Upper-Intermediate English (B2).
-
 ---
 
+## ✨Featured Backend Projects
 
-## ✨Experience
-- **Java Backend Projects (2025 – Present)**:
-    - Built an application with Spring Boot, featuring REST APIs and PostgreSQL integration.
+### 🔹 MiniaturesApp — Clean & scalable Spring Boot API built as a hands-on learning project using Docker, PostgreSQL, JPA, and Swagger.
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.X-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
+![Docker](https://img.shields.io/badge/Docker-✓-brightgreen)  
+**Tech:** Java • Spring Boot • Spring Security • JWT • PostgreSQL • Docker • Swagger • JUnit + Mockito
+**Features:** Authentication/Authorization, Clean Architecture, DTOs, Exception Handling, Documentation, Tests
 
-- **Poison Cat Games (2024 – Present) Co-founder & Developer**:
-    - Worked on Through His Eyes, a psychological horror game, focusing on gameplay and FMOD audio implementation using Unreal Engine 5.
-      
-- **Solo Developer (2023 – 2025)**:
-    - Released Chester The Chest on Steam, handling all aspects from programming and art to publishing and marketing.
-      
-- **Scubalight Studios (2021 – 2023) Gameplay Programmer**:
-    - Contributed to Don't Kill Rumble with Unreal Engine, focusing on gameplay mechanics, bug fixing, and performance improvements.
-      
+🔗 **Repository:** github.com/Pablyco/MiniaturesApp
+
 ---
 
 ## 📫 Contact
-- [Email](pablycogamedev@gmail.com)
+- [Email](pablofvillanueva@outlook.com)
 - [LinkedIn](www.linkedin.com/in/pablyco)
 
 ---
