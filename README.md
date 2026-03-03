@@ -1,63 +1,56 @@
-# 🌀 Pablyco 
-**`Java Backend Developer ⟡ Spring Boot`**
+<h1 align="center">Hi, I'm Pablo Villanueva 👋</h1>
 
-Hi! I’m Pablo Facundo Villanueva — a Java backend developer focused on building clean, maintainable, and scalable RESTful services using Java + Spring Boot + PostgreSQL + Docker.
+<p align="center">
+  <strong>Junior Gameplay Programmer · Unreal Engine 5 · C++ Developer</strong>
+</p>
 
-I’m currently finishing my first full REST API project (CRUD operations, layered architecture, pagination, validation, authentication with Spring Security + JWT, and deployment-ready Docker setup).
-I enjoy backend architecture, clean code, database design, and learning tools that help me build robust software.
-
-Before switching to backend development, I spent 5+ years in game programming, which strengthened my problem-solving, debugging, and performance optimization skills.
-
----
-
-![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.X-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-Studying-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205-black?style=flat-square&logo=unrealengine" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B" />
+</p>
 
 ---
 
+## 🎮 About Me
 
-## 💼 Tech Stack
-### Backend
-- Java 17+  
-- Spring Boot (Web, Data JPA, Security, Validation)  
-- PostgreSQL  
-- Docker   
-- REST API Design  
-- Unit Testing (JUnit + Mockito)  
+I'm a C++ Gameplay Programmer passionate about building modular and scalable gameplay systems in **Unreal Engine 5**. I love treating my projects as a laboratory — always experimenting, iterating, and pushing my architecture further.
 
-### Tools
-- Git + GitHub
-- IntelliJ IDEA
-- Postman
-- Maven
-
-### Other Experience
-- Unreal Engine (C++ / Blueprints)
-- FMOD
-- Gameplay systems & optimization
- 
----
-
-## ✨Featured Backend Projects
-
-### 🔹 MiniaturesApp — Clean & scalable Spring Boot API built as a hands-on learning project using Docker, PostgreSQL, JPA, and Swagger.
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.X-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
-![Docker](https://img.shields.io/badge/Docker-✓-brightgreen)  
-**Tech:** Java • Spring Boot • Spring Security • JWT • PostgreSQL • Docker • Swagger • JUnit + Mockito
-**Features:** Authentication/Authorization, Clean Architecture, DTOs, Exception Handling, Documentation, Tests
-
-🔗 **Repository:** github.com/Pablyco/MiniaturesApp
+My focus is on writing **clean, modular code** that's easy to extend and maintain. I'm currently deepening my knowledge in C++ and gameplay programming patterns while actively looking for an **entry-level position at a AA or AAA studio**.
 
 ---
 
-## 📫 Contact
-- [Email](pablofvillanueva@outlook.com)
-- [LinkedIn](www.linkedin.com/in/pablyco)
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| Language | C++ |
+| Engine | Unreal Engine 4 & 5 |
+| Version Control | Git, Perforce |
+| Audio | FMOD |
+| Patterns | OOP, Gameplay Architecture, Data-Driven Design |
 
 ---
+
+## 📚 Currently Learning
+
+- Advanced C++ for game development
+- Gameplay Systems design & architecture
+- Unreal Engine internals & performance fundamentals
+- Linear Algebra for gameplay systems
+
+---
+
+## 📬 Let's Connect
+
+<p>
+  <a href="mailto:pablofvillanueva@outlook.com">📧 pablofvillanueva@outlook.com</a><br/>
+  <a href="https://linkedin.com/in/pablofvillanueva">💼 linkedin.com/in/pablofvillanueva</a>
+</p>
+
+---
+
+<p align="center">
+  <em>Always building. Always learning. Always leveling up.</em>
+</p>
