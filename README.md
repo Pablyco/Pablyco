@@ -17,19 +17,32 @@
 
 I'm a C++ Gameplay Programmer passionate about building modular and scalable gameplay systems in **Unreal Engine 5**. I love treating my projects as a laboratory — always experimenting, iterating, and pushing my architecture further.
 
-My focus is on writing **clean, modular code** that's easy to extend and maintain. I'm currently deepening my knowledge in C++ and gameplay programming patterns while actively looking for an **entry-level position at a AA or AAA studio**.
+My focus is on writing **clean, modular code** that's easy to extend and maintain. I'm currently deepening my knowledge in C++ and gameplay programming patterns while actively looking for an **entry-level position at an AA or AAA studio**.
 
 ---
+🕹️ My projects:
+1. **Chester The Chest:**
+	 - Implemented a decoupled and reactive inventory system using Delegates/Actions, allowing multiple game systems to respond to state changes without circular dependencies.
+	 - Designed an architecture of dynamic attribute modifiers to alter Character Controller parameters in real time, facilitating the overlapping of state effects.
+<iframe src="https://store.steampowered.com/widget/2506390/" frameborder="0" width="646" height="190"></iframe>
+2. **Through His Eyes:**
+	- Developed an interaction system based on Constraints and Linear Drives to achieve realistic, player-controlled mechanical manipulation of doors and drawers.
+	- Optimized the gameplay flow using **Asynchronous Level Streaming**, managing memory and processing across secondary threads to eliminate latency during level transitions.
+	- Created a Data-Driven inspection pipeline using Data Assets, allowing the design team to autonomously integrate and configure new objects without code intervention.
+	- Programmed a **Context-Aware narrative system** that uses a priority system and GameplayTags to trigger dialogue lines consistent with the player's current actions.
 
+<iframe src="https://store.steampowered.com/widget/3520830/" frameborder="0" width="646" height="190"></iframe>
+
+---
 ## 🛠️ Tech Stack
 
-| Area | Tools |
-|---|---|
-| Language | C++ |
-| Engine | Unreal Engine 4 & 5 |
-| Version Control | Git, Perforce |
-| Audio | FMOD |
-| Patterns | OOP, Gameplay Architecture, Data-Driven Design |
+| Area            | Tools                                          |
+| --------------- | ---------------------------------------------- |
+| Language        | C++                                            |
+| Engine          | Unreal Engine 4 & 5                            |
+| Version Control | Git, Perforce                                  |
+| Audio           | FMOD                                           |
+| Patterns        | OOP, Gameplay Architecture, Data-Driven Design |
 
 ---
 
