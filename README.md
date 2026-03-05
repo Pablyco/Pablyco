@@ -34,7 +34,9 @@ My focus is on writing **clean, modular code** that's easy to extend and maintai
 	- Programmed a **Context-Aware narrative system** that uses a priority system and GameplayTags to trigger dialogue lines consistent with the player's current actions.
 
 <div align="center"> <a href="https://store.steampowered.com/app/3520830/"> <img src="https://cdn.akamai.steamstatic.com/steam/apps/3520830/header.jpg" alt="Available on Steam" width="600"> </a></div>
+
 ---
+
 ## 🛠️ Tech Stack
 
 | Area            | Tools                                          |
