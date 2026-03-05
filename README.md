@@ -20,7 +20,7 @@ I'm a C++ Gameplay Programmer passionate about building modular and scalable gam
 My focus is on writing **clean, modular code** that's easy to extend and maintain. I'm currently deepening my knowledge in C++ and gameplay programming patterns while actively looking for an **entry-level position at an AA or AAA studio**.
 
 ---
-🕹️ My projects:
+## 🕹️ My projects:
 1. **Chester The Chest:**
 	 - Implemented a decoupled and reactive inventory system using Delegates/Actions, allowing multiple game systems to respond to state changes without circular dependencies.
 	 - Designed an architecture of dynamic attribute modifiers to alter Character Controller parameters in real time, facilitating the overlapping of state effects.
