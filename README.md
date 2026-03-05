@@ -24,15 +24,16 @@ My focus is on writing **clean, modular code** that's easy to extend and maintai
 1. **Chester The Chest:**
 	 - Implemented a decoupled and reactive inventory system using Delegates/Actions, allowing multiple game systems to respond to state changes without circular dependencies.
 	 - Designed an architecture of dynamic attribute modifiers to alter Character Controller parameters in real time, facilitating the overlapping of state effects.
-<iframe src="https://store.steampowered.com/widget/2506390/" frameborder="0" width="646" height="190"></iframe>
+
+<div align="center"> <a href="https://store.steampowered.com/app/2506390/"> <img src="https://cdn.akamai.steamstatic.com/steam/apps/2506390/header.jpg" alt="Available on Steam" width="600"> </a></div>
+
 2. **Through His Eyes:**
 	- Developed an interaction system based on Constraints and Linear Drives to achieve realistic, player-controlled mechanical manipulation of doors and drawers.
 	- Optimized the gameplay flow using **Asynchronous Level Streaming**, managing memory and processing across secondary threads to eliminate latency during level transitions.
 	- Created a Data-Driven inspection pipeline using Data Assets, allowing the design team to autonomously integrate and configure new objects without code intervention.
 	- Programmed a **Context-Aware narrative system** that uses a priority system and GameplayTags to trigger dialogue lines consistent with the player's current actions.
 
-<iframe src="https://store.steampowered.com/widget/3520830/" frameborder="0" width="646" height="190"></iframe>
-
+<div align="center"> <a href="https://store.steampowered.com/app/3520830/"> <img src="https://cdn.akamai.steamstatic.com/steam/apps/3520830/header.jpg" alt="Available on Steam" width="600"> </a></div>
 ---
 ## 🛠️ Tech Stack
 
